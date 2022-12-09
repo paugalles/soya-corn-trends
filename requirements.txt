@@ -1,0 +1,10 @@
+pandas
+seaborn
+sklearn
+jupyterlab
+ipykernel
+tabulate
+mlflow
+typing
+tqdm
+torch
